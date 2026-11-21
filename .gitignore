@@ -1,0 +1,6 @@
+.idea/
+*.exe
+*.test
+coverage.out
+results.csv
+/pos
